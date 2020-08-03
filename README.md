@@ -1,4 +1,4 @@
-<meta property="og:image" content="https://raw.githubusercontent.com/Joaosilgo/joaogomes/master/img/abstract.jpg">
+
 
 <!--
 
