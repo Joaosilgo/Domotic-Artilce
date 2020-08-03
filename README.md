@@ -2,12 +2,9 @@
 <!--
 
   Title: Sistemas de Controlo Domotica
-
-  Description: The article portrays the relationship between residential automation and the latest new technologies on the market, in the sense that it is nowadays very easy to    integrate and implement in a common house. Although it is a little explored concept, it has been increasing over time, evidencing this concept as the increase of the home          automation market.
-
-  Author: João Gomes
-  
   Image: https://github.com/Joaosilgo/Domotic-Article/blob/master/img/domotic.jpeg
+  Description: The article portrays the relationship between residential automation and the latest new technologies on the market, in the sense that it is nowadays very easy to    integrate and implement in a common house. Although it is a little explored concept, it has been increasing over time, evidencing this concept as the increase of the home          automation market.
+  Author: João Gomes
   
   
  
