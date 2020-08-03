@@ -7,6 +7,8 @@
 
   Author: João Gomes
   
+  Image: https://github.com/Joaosilgo/Domotic-Article/blob/master/img/domotic.jpeg
+  
   
  
   -->
