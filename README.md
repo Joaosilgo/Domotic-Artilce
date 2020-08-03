@@ -1,5 +1,20 @@
 
 
+<head>
+  
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://joaosilgo.github.io/Domotic-Article/">
+    <meta property="og:title" content="Sistemas de Controlo Domotica">
+    
+    <meta property="og:image" content="https://raw.githubusercontent.com/Joaosilgo/joaogomes/master/img/abstract.jpg">
+  
+    
+
+
+
+
+    <title>João Gomes HomePage</title>
+</head>
 
 <!--
   Title: Sistemas de Controlo Domotica
