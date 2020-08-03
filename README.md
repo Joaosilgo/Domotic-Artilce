@@ -1,13 +1,9 @@
-<head>
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://joaosilgo.github.io/Domotic-Article/">
-    <meta property="og:title" content="Sistemas de Controlo Domotica">
-    <meta property="og:image" content="https://raw.githubusercontent.com/Joaosilgo/joaogomes/master/img/abstract.jpg">
-</head>
-
 <!--
+
   Title: Sistemas de Controlo Domotica
-  Description: The article portrays the relationship between residential automation and the latest new technologies on the market, in the sense that it is nowadays very easy to integrate and implement in a common house. Although it is a little explored concept, it has been increasing over time, evidencing this concept as the increase of the home automation market.
+
+  Description: The article portrays the relationship between residential automation and the latest new technologies on the market, in the sense that it is nowadays very easy to    integrate and implement in a common house. Although it is a little explored concept, it has been increasing over time, evidencing this concept as the increase of the home          automation market.
+
   Author: João Gomes
  
   -->
